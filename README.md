@@ -1,2 +1,2 @@
-# aprendiendo_python.github.io
-MI aprendizaje de Python
+# Aprendiendo Python
+Mi aprendizaje de Python
