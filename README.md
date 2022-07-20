@@ -3,3 +3,8 @@
 
 ### Descargar Python:
 https://www.python.org/downloads/
+
+#### Mostrar mensaje
+```
+print("Hola Python")
+```
